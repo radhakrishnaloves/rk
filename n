@@ -1,0 +1,17 @@
+[6~
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+Haritha Reddy@DESKTOP-KE4EBR9 MINGW64 /f/success/rk (abdul)
+$ cat > n
